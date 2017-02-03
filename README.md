@@ -47,7 +47,11 @@ If you're going to mix in a 'book of truth' (as the US SATS guide was known as i
 4. Back at Gitbook, on the book, choose settings and the GitHub, then choose the repo you are working in.
 5. Gitbook will go bananas that the sync failed, choose Sync from Github. 
 
-Eventually all will be well and you will be up and running.
+Eventually all will be well and you will be up and running and you can create a link that works: [beautiful book](https://petegcole.gitbooks.io/api-book-on-github/)
+
+The beauty of this is you can work on the docs as part of your repository, push the updates and the books and pages and everything update with a CI type thing.
+
+I'm old, this sort of suff makes me happy - when I get it.
 
 
 
