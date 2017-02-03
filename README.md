@@ -51,7 +51,7 @@ Eventually all will be well and you will be up and running and you can create a 
 
 The beauty of this is you can work on the docs as part of your repository, push the updates and the books and pages and everything update with a CI type thing.
 
-I'm old, this sort of suff makes me happy - when I get it.
+I'm old, this sort of stuff makes me happy - when I get it.
 
 
 
